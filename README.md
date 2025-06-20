@@ -1,9 +1,15 @@
 # al-gaazy-ent[Uploading index.htm
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head![IMG-20250416-WA0011](https://github.com/user-attachments/assets/32b0085c-5058-4345-804e-d5eddb4c6895)
+>
+  ![dada5ef8f370400fae7fa79bf0b14c82](https://github.com/user-attachments/assets/22592727-09d5-4125-a753-17672630d75c)
+![![IMG-20250416-WA0068](https://github.com/user-attachments/assets/d8c8c252-b1b0-424d-81e6-2064cb6ba2d5)
+IMG-20250416-WA0112](https://github.com/user-attachments/assets/de8b65f5-f536-45e0-8c01-59a400bc6e54)
+![IMG-20241220-WA0017](https://github.com/user-attachments/assets/96328ae6-522b-407f-a465-d06ecfa537e3)
+  <meta charset="UTF-8">
+  ![IMG-20250416-WA0072](https://github.com/user-attachments/assets/b3e8ee4a-4140-448f-bc63-a66d22f6647d)
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Al-Gaazy ENT</title>
     <link rel="stylesheet" href="styles.css">
 </head>
