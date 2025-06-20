@@ -1,4 +1,4 @@
-# al-gaazy-ent[Uploading index.htm
+![IMG-20241220-WA0017](https://github.com/user-attachments/assets/d69de799-6200-4bb0-9cbf-82f77d681df9)# al-gaazy-ent[Uploading index.htm
 <!DOCTYPE html>
 <html lang="en">
 <head![IMG-20250416-WA0011](https://github.com/user-attachments/assets/32b0085c-5058-4345-804e-d5eddb4c6895)
@@ -47,10 +47,16 @@ IMG-20250416-WA0112](https://github.com/user-attachments/assets/de8b65f5-f536-45
                 <div class="product">
                     <img src="IMAGES/IMG-20241220-WA0017.jpg" alt="Incense Sticks">
                     <h3>Incense Sticks</h3>
-                    <p>Rich, aromatic scents.</p>
+     ![IMG-20250416-WA0011](https://github.com/user-attachments/assets/ea00b8ad-fc06-4e1c-b4bd-db03462044fd)
+               <p>Rich, aromatic scents.</p>
                 </div>
-                <div class="product">
-                    <img src="IMAGES/dada5ef8f370400fae7fa79bf0b14c82.jpg" alt="T-Shirts">
+    ![![dada5ef8f370400fae7fa79bf0b14c82](https://github.com/user-attachments/assets/17364d13-3dc0-4f60-80e6-5d4365dc898b)
+Uploading IMG-20241220-WA0017.jpg…]()
+  ![IMG-20250416-WA0112](https://github.com/user-attachments/assets/e270284a-9075-4021-a642-82f7042cdc71)
+          <div class="product">
+     ![IMG-20250416-WA0072](https://github.com/user-attachments/assets/7df4eb28-6180-40cd-bda7-674d9d32dace)
+    ![IMG-20250416-WA0068](https://github.com/user-attachments/assets/d8e707ce-0e18-4d8d-b98d-254758ef2106)
+           <img src="IMAGES/dada5ef8f370400fae7fa79bf0b14c82.jpg" alt="T-Shirts">
                     <h3>T-Shirts</h3>
                     <p>Custom Islamic designs.</p>
                 </div>[Uploading st
